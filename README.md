@@ -1,8 +1,11 @@
 ## 📬 Author
 
 **Name:** MUGABO EMMANUEL
+
 **ID:** 26735
+
 **Lecturer:** Eric Maniraguha  
+
 **Institution:** AUCA – Faculty of Information Technology  
 **Academic Year:** 2025
 
@@ -114,5 +117,3 @@ This project demonstrated the power of data analytics in retail environments. By
 ---
 
 
-
-> *All work was conducted in accordance with AUCA’s academic integrity guidelines. Tools such as ChatGPT were used responsibly and with full understanding.*
